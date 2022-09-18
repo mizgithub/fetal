@@ -1,4 +1,4 @@
-# fetal
+# fetal health status classification from CTG signal
 ## Abstract
 
 Reduction of child mortality has been an issue in several of the United Nations' (UN) Sustainable Development Goals (UN) and is a key indicator of human progress. The UN expects that by 2030, countries end preventable deaths of newborns and children under 5 years of age, and reduce under-5 mortality to at least as low as 25 per 1,000 live births. Ethiopia is among countries that bear the highest burden of infant deaths. To avert this and other health problems, large-scale investment in primary healthcare and social services has been made by the country for the last decade. However, according to UN SDG report, there is still a need of further effort in for the reduction of child mortality rate. The vast majority of child and maternal mortality (94%) occurred in low-resource settings, and most of it could have been prevented with early assessment of fetal health followed by proper risk management. 
